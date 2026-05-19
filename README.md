@@ -91,7 +91,7 @@ app/
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/task-manager-api.git
+git clone https://github.com/amitsinghnvt/task-management-system-api.git
 ```
 
 
